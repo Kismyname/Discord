@@ -25,4 +25,4 @@ async def anorganik(ctx):
 
     await ctx.send(file_content)
 
-bot.run('MTExOTIxMDAzODg1MTAzMTA5MA.GUlUz8.gDjJKAeQ-BTqINSd2Yy64zHmaI8wj-D51iPb8c')   
+bot.run('')   
